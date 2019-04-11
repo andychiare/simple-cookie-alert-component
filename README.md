@@ -14,7 +14,7 @@ You can use it by importing the script `cookieAlert.js` in your HTML page as sho
 ...
 ```
 
-and using the tag <cookie-alert></cookie-alert>` like a normal HTML tag.
+and using the tag `<cookie-alert></cookie-alert>` like a normal HTML tag.
 
 The component should appear at the bottom of your page as shown in the following picture:
 
